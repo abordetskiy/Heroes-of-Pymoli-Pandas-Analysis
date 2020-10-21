@@ -1,6 +1,4 @@
-# Heroes of Pymoli
-
-## Analyzing data in a fantasy game
+# Heroes of Pymoli - Analyzing data in a fantasy game
 
 ### This project pulls in data from a CSV file and uses Python and the Pandas library to analyze the microtransactions within the game to pull useful purchasing analysis and trends for the user. Included in the analysis are mulitple factors including Gender and Age demographics, top spenders, most popular and most profitable items.
 
